@@ -17,5 +17,8 @@ public class Order {
         return id;
     }
 
-    public int getDeliveryTime(){return deliveryTime;}
+    public int getDeliveryTime()
+    {
+        return deliveryTime;
+    }
 }
